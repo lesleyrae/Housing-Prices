@@ -1,6 +1,8 @@
 # Housing-Prices
 With 79 explanatory variables describing most aspect of residential homes in Ames, Iowa, the project predict the final price of each home. Used Lasso and PCA models to deduct data dimensions and used several classification models (regression, bagging, and boosting).
 
+Data resource: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
 data_description.txt -- data variables detailed descriptions
 
 train.csv -- data for training models
